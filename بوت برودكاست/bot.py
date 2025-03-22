@@ -45,4 +45,4 @@ async def setup(ctx, *, message: str):
         await ctx.send("ليس لديك صلاحيات كافية!")
 
 # بدء تشغيل البوت
-bot.run('MTI5NjUzNjg4ODU4ODM3MDAyMA.GU6o_d.o20WeaAzu9B4kh9b_RIXPk9zHENyhtTAthOspspython bot.py')
+bot.run('MTM1MzEzODYxNzY0Nzg5NDY1Mg.G_Oe2N.Q13h-p5JGKPPXMavsT9-pppdnxtHzVMSDILFqobot.py')
